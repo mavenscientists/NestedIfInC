@@ -1,5 +1,5 @@
 [Project]
-name=NestedIf
+name=NestedIfInC
 type=0
 defaultConfig=0
 
@@ -26,7 +26,7 @@ optimizeLevel=0
 
 // linker
 libraryPath=
-outputFilename=Debug\NestedIf.exe
+outputFilename=Debug\NestedIfInC.exe
 libraries=
 extraLinkerOptions=
 ignoreStartupFile=0
@@ -64,7 +64,7 @@ optimizeLevel=2
 
 // linker
 libraryPath=
-outputFilename=Release\NestedIf.exe
+outputFilename=Release\NestedIfInC.exe
 libraries=
 extraLinkerOptions=
 ignoreStartupFile=0
@@ -80,10 +80,9 @@ resourceIncludeDirectory=
 extraResourceOptions=
 
 [Source]
-1=nestedIf.cpp
+1=nestedif.c
 [Header]
 [Resource]
 [Other]
 [History]
-..\EvenorOdd\evenOrOdd.c,0
-nestedIf.cpp,0
+nestedif.c,1175

@@ -40,12 +40,12 @@ int main()
 			}
 			else
 			{
-				printf("\nGreater than 25 and LESS than 50");
+				printf("\nGreater than 25 and less than 50");
 			}
 		}
 		else
 		{
-			printf("\nGreater than 50 and LESS than 100");		
+			printf("\nGreater than 50 and less than 100");		
 		}
 	}
 	else
@@ -56,3 +56,4 @@ int main()
 
 	return 0;
 }
+
