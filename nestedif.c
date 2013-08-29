@@ -27,6 +27,9 @@ int main()
 	printf("Enter Number : ");
 	scanf("%d", &number);
 	
+	/* An if atatement inside another is called nested if  
+	*/
+
 	if( number<= 100)
 	{
 		printf("Less  than or equal to 100");
